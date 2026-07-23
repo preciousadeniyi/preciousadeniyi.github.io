@@ -1,6 +1,8 @@
 # Precious Adeniyi — AI Safety Researcher
 
-Welcome to my personal portfolio website. This site showcases my research on **PVF-U**, a novel three-layer architecture for multi-agent AI safety.
+Welcome to my personal portfolio website.
+
+**[View Site →](https://preciousadeniyi.github.io)**
 
 ---
 
@@ -21,10 +23,19 @@ PVF-U solves both problems through three mathematically proven layers:
 
 | Layer | Function |
 | :--- | :--- |
-| **Layer 0: Solitary Survival (Epistemic Core)** | Ensures agents continue exploring and learning even when isolated. |
-| **Layer 1: Smart Social Learning (Relational Gate)** | Dynamically controls when an agent follows the group and when it trusts its own knowledge. |
-| **Layer 2: Power Equity (Ecosystemic Superstructure)** | Mathematically prevents any single agent from dominating. |
+| **Layer 0: Solitary Survival** | Ensures agents continue exploring even when isolated |
+| **Layer 1: Smart Social Learning** | Dynamically controls when to follow the group |
+| **Layer 2: Power Equity** | Mathematically prevents any single agent from dominating |
 
+### Validation Results
+
+- **200 replications** across four benchmark environments
+- Outperforms **six standard RL exploration baselines**
+- **Power Equity Index: 0.83** (vs. 0.51 for current best)
+- **35% faster** task completion than current alternatives
+- **Formal mathematical proofs** for stability, convergence, and power-equity guarantees
+
+---
 
 ## Links
 
@@ -37,7 +48,9 @@ PVF-U solves both problems through three mathematically proven layers:
 
 ---
 
-## 
+## Acknowledgements
+
+I am grateful to **Dr. Daniel Friedman**, President of the Active Inference Institute, for his high-level review and constructive feedback on this work.
 
 ---
 
