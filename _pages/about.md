@@ -1,8 +1,4 @@
----
-title: "About Me"
-permalink: /about/
-author_profile: true
-layout: single
+
 ---
 
 ## Who I Am
