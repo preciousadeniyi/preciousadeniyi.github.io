@@ -1,6 +1,3 @@
-
-
-
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -23,10 +20,10 @@ repository               : "preciousadeniyi/preciousadeniyi.github.io"
 # Site Author
 author:
   # Biographic information
-  avatar           :"IMG-20260627-WA0000.jpg"
+  avatar           : "IMG-20260627-WA0000.jpg"
   name             : "Precious Adeniyi"
   pronouns         : "he/him"
-  bio              : "Independent AI Safety Researcher. Building PVF-U - a novel multi-agent AI safety framework from first principles. Based in Oyo, Nigeria."
+  bio              : "Independent AI Safety Researcher. Building PVF-U — a novel multi-agent AI safety framework from first principles."
   location         : "Oyo, Nigeria"
   employer         : "Independent Researcher"
   uri              : https://preciousadeniyi.github.io
@@ -310,6 +307,15 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Navigation
+navigation:
+  - title: "About"
+    url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
 
 # HTML Compression
 compress_html:
