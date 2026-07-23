@@ -1,5 +1,4 @@
-
-  caption: "Building safe, equitable AI from first principles"
+Building safe, equitable AI from first principles
 excerpt: "Independent AI Safety Researcher<br>PVF-U Framework"
 
 ## About Me
