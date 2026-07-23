@@ -23,17 +23,8 @@ Dynamically controls when an agent follows the group and when it trusts its own 
 ### Layer 3: Power Equity (Ecosystemic Superstructure)
 Mathematically prevents any single agent from dominating. Influence is earned by reducing others' stress, not by being aggressive.
 
-### Validation
-- **200 replications** across four benchmarks
-- Outperforms six standard RL baselines
-- **Power Equity Index: 0.83** (vs. 0.51 for current best)
-- **35% faster** than current alternatives
-- **Formal mathematical proofs** for stability and convergence
 
 ### Links
 - [Preprint (Zenodo)](https://doi.org/10.5281/zenodo.21324699)
 - [Code (GitHub)](https://github.com/preciousadeniyi/Pvf_u)
 - [arXiv] (coming soon)
-
-### Collaborators
-- **Dr. Daniel Friedman** — President, Active Inference Institute (reviewer)
