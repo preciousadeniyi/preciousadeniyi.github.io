@@ -36,6 +36,6 @@ PVF-U is a three-layer mathematical architecture that solves both problems:
 
 ### My Background
 
-I built the entire PVF-U framework alone over the past year. I have formal mathematical proofs, working code, and validated simulation results across four benchmarks with 200 replications.
+I built the entire PVF-U framework alone over the past year. I have formal mathematical proofs, working code.
 
 I am open-sourcing this work to ensure these safety mechanisms are globally accessible.
