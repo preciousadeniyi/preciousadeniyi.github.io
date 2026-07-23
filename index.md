@@ -1,15 +1,6 @@
 
----
-layout: splash
-author_profile: true
-title: "Precious Adeniyi"
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /images/ai-research-banner.jpg
   caption: "Building safe, equitable AI from first principles"
 excerpt: "Independent AI Safety Researcher<br>PVF-U Framework"
----
 
 ## About Me
 
