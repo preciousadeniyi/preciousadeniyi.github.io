@@ -1,22 +1,42 @@
 ---
-title: "Publications"
+layout: page
+title: Publications
 permalink: /publications/
-author_profile: true
-layout: single
 ---
 
 ## Preprints
 
-### PVF-U: From Solitary Survival to Ecosystemic Negotiation in Affective AI
+### PVF-U: The Unified Primitive Valence Foundation (2026)
 
-**Abstract:** Current multi-agent AI systems exhibit two critical failure modes: agent collapse when isolated (the "Emptiness Asymptote") and power concentration in groups. This paper introduces PVF-U, a novel three-layer architecture that solves both problems simultaneously through mathematical guarantees.
+*From Solitary Survival to Ecosystemic Negotiation in Affective AI*
 
-The architecture consists of:
+- [Preprint](https://doi.org/10.5281/zenodo.21324699) | [Code](https://github.com/preciousadeniyi/Pvf_u)
+- Introduces three-tiered architecture solving the "Emptiness Asymptote"
+- Formal guarantees: BIBO stability, gate convergence, veto stabilisation
+- Achieves Power Equity Index (PEI) > 0.83 in multi-agent systems
+- Validated across 4 benchmarks with 200 replications
 
-1. An Epistemic Core that ensures solitary survival through intrinsic curiosity
-2. A Relational Gate that dynamically controls social permeability
-3. An Ecosystemic Superstructure that mathematically prevents power concentration
+### Belief-Precision Geometry (2026) — Private
 
+*A Riemannian Framework for Affective Predictive Processing and Multi-Sensor Fusion*
+
+- Unifies information geometry, predictive processing, and affective computing
+- Proves convergence of natural gradient belief updates
+- Available upon request under confidentiality
+
+### Hierarchical FEMI (2026) — Private
+
+*Multi-Level Identity Dynamics with Deep Temporal Prior and Identity-Preserving Action Selection*
+
+- Extends identity theory to L coupled levels with closed-form variance cascade
+- Available upon request under confidentiality
+
+### Born Again (2026) — Private
+
+*Hierarchical Belief States with Structural Plasticity for Autonomous Identity Transformation*
+
+- Introduces valence-driven structural plasticity for autonomous model restructuring
+- Available upon request under confidentiality
 Validation across four benchmarks with 200 replications demonstrates that PVF-U outperforms six standard RL exploration baselines on all safety metrics, achieving a Power Equity Index of 0.83.
 
 **Download:** [Preprint (Zenodo)](https://doi.org/10.5281/zenodo.21324699)
