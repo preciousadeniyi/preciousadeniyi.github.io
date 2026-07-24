@@ -1,52 +1,16 @@
-
+---
+layout: single
+permalink: /
+title: "About Me"
+author_profile: true
 ---
 
-## Who I Am
+I am an independent **Artificial Intelligence (AI)** safety researcher based in Oyo, Nigeria.
 
-I am an independent AI safety researcher based in Oyo, Nigeria. I build novel frameworks for safe, equitable multi-agent AI systems.
+I built the **Primitive Valence Foundation — Unified (PVF-U)** framework from first principles—without funding, without institutional backing, without a formal degree.
 
----
+My work focuses on making multi-agent AI systems robust, equitable, and safe—especially in situations where they are isolated or faced with unexpected challenges.
 
-## What I Do
+I open-source all my work to ensure these safety mechanisms are globally accessible.
 
-I design and build mathematical architectures for AI safety. My focus is on:
-
-- **Multi-agent dynamics** — understanding how AI agents interact
-- **Power concentration** — preventing dominance by single agents
-- **Agent robustness** — ensuring agents survive and function alone
-
----
-
-## My Approach
-
-I believe safety should be built into AI architecture from the beginning, not added later.
-
-That is why I built PVF-U from first principles — with formal proofs, mathematical guarantees, and rigorous validation.
-
----
-
-## Why I Do It
-
-AI systems are becoming increasingly complex and autonomous. Without proper safety mechanisms, they could:
-
-1. **Freeze when isolated** — becoming useless in emergencies
-2. **Concentrate power** — enabling a few actors to dominate
-
-My work aims to prevent both outcomes.
-
----
-
-## My Background
-
-- **Location:** Oyo, Nigeria
-- **Education:** Self-taught researcher
-- **Experience:** Built PVF-U from scratch with zero funding
-
----
-
-## Contact
-
-- **Email:** preciousadeniyi165@gmail.com
-- **GitHub:** https://github.com/preciousadeniyi
-- **LinkedIn:** https://linkedin.com/in/precious-adeniyi-ba6b29271
-- **Website:** https://preciousadeniyi.github.io
+[View my research and publications](/cv/)
