@@ -6,12 +6,12 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   caption: "Building safe, equitable AI from first principles"
-excerpt: "Independent AI Safety Researcher<br>PVF-U Framework"
+excerpt: "Independent Artificial Intelligence (AI) Safety Researcher<br>Primitive Valence Foundation — Unified (PVF-U) Framework"
 ---
 
 ## About Me
 
-I am an independent AI safety researcher based in Oyo, Nigeria. I built the PVF-U framework from first principles — without funding, without institutional backing, and without a formal degree.
+I am an independent Artificial Intelligence (AI) safety researcher based in Oyo, Nigeria. I built the Primitive Valence Foundation — Unified (PVF-U) framework from first principles — without funding, without institutional backing, and without a formal degree.
 
 My work addresses two critical failure modes in multi-agent AI systems:
 
@@ -36,6 +36,4 @@ PVF-U is a three-layer mathematical architecture that solves both problems:
 
 ### My Background
 
-I built the entire PVF-U framework alone over the past year. I have formal mathematical proofs, working code.
-
-I am open-sourcing this work to ensure these safety mechanisms are globally accessible.
+I built the entire PVF-U framework alone over the past year. I have formal mathematical proofs and working code. I am open-sourcing this work to ensure these safety mechanisms are globally accessible..
