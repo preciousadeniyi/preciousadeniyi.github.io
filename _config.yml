@@ -315,7 +315,7 @@ navigation:
   - title: "Research"
     url: /research/
   - title: "Publications"
-    url: /publications/
+    url: 
 
 # HTML Compression
 compress_html:
